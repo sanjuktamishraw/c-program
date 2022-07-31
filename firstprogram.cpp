@@ -4,6 +4,7 @@ int main() {
   long b;
   long long c;
   long double d;
+  int sanju;
   printf("size of short = %d bytes\n", sizeof(a));
   printf("size of long = %d bytes\n", sizeof(b));
   printf("size of long long = %d bytes\n", sizeof(c));
